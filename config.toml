@@ -1,0 +1,212 @@
+# Page settings
+
+baseurl = "https://ebodera.github.io/resume"
+languageCode = "en-us"
+title = "Emanuel Boderash Resume"
+theme = "hugo-orbit-theme"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+# Do not build files for websites. Need them? Set to false
+disableRSS = true
+disableSitemap = true
+disable404 = true
+
+[params]
+
+# Meta
+    description = "Hugo Responsive Resume/CV Theme for Developers"
+    author = "Pavel Kanyshev"
+
+# Theme styles
+
+    # The original template comes with 6 colour schemes. You may choose styles below.
+    # "styles.css", "styles-2.css", "styles-3.css", "styles-4.css", "styles-5.css", "styles-6.css"
+    # are available. Also the source LESS files are included so
+    # it’s quick and easy to change the styling and colour scheme.
+
+    styles = "styles.css"
+
+# Sidebar sections
+
+    # Profile section
+    [params.profile]
+        name = "Emanuel Boderash"
+        tagline = "Full Stack Developer"
+        avatar = "avatar.jpg"
+
+    # Contact section
+    [params.contact]
+        enable = true
+
+        [[params.contact.list]]
+        class = "email"
+        icon = "fa-envelope"
+        url = "mailto: eboderas@asu.edu"
+        title = "eboderas@asu.edu"
+
+        [[params.contact.list]]
+        class = "phone"
+        icon = "fa-phone"
+        url = "tel:+6464946193"
+        title = "+6464946193"
+
+        [[params.contact.list]]
+        class = "website"
+        icon = "fa-globe"
+        url = "//ebodera.com"
+        title = "ebodera.com"
+
+        [[params.contact.list]]
+        class = "linkedin"
+        icon = "fa-linkedin"
+        url = "//linkedin.com/in/ebodera"
+        title = "linkedin.com/in/ebodera"
+
+        [[params.contact.list]]
+        class = "github"
+        icon = "fa-github"
+        url = "//github.com/ebodera"
+        title = "github.com/ebodera"
+
+        [[params.contact.list]]
+        class = "twitter"
+        icon = "fa-twitter"
+        url = "//twitter.com/ebodera"
+        title = "@ebodera"
+
+    # Education section
+    [params.education]
+        enable = true
+        title = "Education"
+
+        [[params.education.list]]
+        degree = "BS in Computer Science"
+        college = "Arizona State University"
+        dates = "2017"
+
+    # Languages section
+    [params.language]
+        enable = true
+        title = "Languages"
+
+        [[params.language.list]]
+        language = "English"
+        level = "Native"
+
+        [[params.language.list]]
+        language = "Romanian"
+        level = "Native"
+
+    # Interests section
+    [params.interests]
+        enable = true
+        title = "Interests"
+
+        [[params.interests.list]]
+        interest = "Powerlifting"
+
+        [[params.interests.list]]
+        interest = "Raving"
+
+        [[params.interests.list]]
+        interest = "Coffee"
+
+# Main body sections
+
+    # You may use markdown in summary, details and intro fields. But don't overdose, it's resume!:)
+
+    # Summary section
+    [params.summary]
+        enable = true
+        icon = "fa-user"
+        title = "Career Profile"
+        summary = "Full-stack developer. Strong focus in leading and coordinating development and automation efforts, architecting new initiatives and processes. Experience working in Agile."
+
+    # Experiences section
+    [params.experiences]
+        enable = true
+        icon = "fa-briefcase"
+        title = "Experiences"
+
+        [[params.jobs.list]]
+        position = "Engineer"
+        dates = "2017 - Present"
+        company = "American Express"
+        details = "Lead automation in vulnerability management, architecting and deploying Splunk and CodeDX with numerous API endpoints using technologies such as Python, Docker and Bash on a team implementing Agile methodologies."
+
+        [[params.jobs.list]]
+        position = "Intern"
+        dates = "2016 - 2017"
+        company = "Arizona Cyber Warfare Range"
+        details = "Lead development, testing and documentation efforts of malware analysis lab, perform reverse-engineering of x86 Assembly code using IDA Pro, GDB, and other tools."
+
+    # Projects section
+    [params.projects]
+        enable = true
+        icon = "fa-archive"
+        title = "Projects"
+        #intro = ""
+
+        [[params.projects.list]]
+        title = "Sociotrader"
+        url = "https://github.com/ebodera/sociotrader"
+        tagline = "Bot that trades stocks using Alpaca API based on custom algorithms and social media sentinement, written in Go."
+
+        [[params.projects.list]]
+        title = "pwnable.kr Write-ups"
+        url = "https://github.com/ebodera/pwnable.kr"
+        tagline = "Write-ups for pwnable.kr CTF challenges that involve various categories such as binary exploitation, reverse engineering and cryptography."
+
+    # Skills section
+    [params.skills]
+        enable = true
+        icon = "fa-rocket"
+        title = "Skills & Proficiency"
+
+        [[params.skills.list]]
+        skill = "Python"
+        level = "90%"
+
+        [[params.skills.list]]
+        skill = "C"
+        level = "70%"
+
+        [[params.skills.list]]
+        skill = "Java"
+        level = "60%"
+
+        [[params.skills.list]]
+        skill = "Bash"
+        level = "50%"
+
+        [[params.skills.list]]
+        skill = "Go"
+        level = "30%"
+
+        [[params.skills.list]]
+        skill = "HTML5 & CSS"
+        level = "20%"
+
+        [[params.skills.list]]
+        skill = "Docker"
+        level = "80%"
+
+        [[params.skills.list]]
+        skill = "Selenium"
+        level = "40%"
+
+        [[params.skills.list]]
+        skill = "Agile"
+        level = "60%"
+
+    # Footer section
+
+    # The original template is released under the Creative Commons Attribution 3.0 License.
+    # Please keep the original attribution link when using for your own project.
+    # If you'd like to use the template without the attribution,
+    # you can check out other license options via template author's website: themes.3rdwavemedia.com
+    #
+    # As for Hugo port you may rewrite the "Ported for..." line with setting your name below.
+
+    [params.footer]
+        copyright = ""
