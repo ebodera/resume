@@ -148,7 +148,7 @@ disable404 = true
         #intro = ""
 
         [[params.projects.list]]
-        title = "Sociotrader"
+        title = "sociotrader"
         url = "https://github.com/ebodera/sociotrader"
         tagline = "Bot that trades stocks using Alpaca API based on custom algorithms and social media sentinement, written in Go."
 
