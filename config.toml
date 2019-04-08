@@ -53,8 +53,8 @@ disable404 = true
         [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
-        url = "//ebodera.github.io"
-        title = "ebodera.github.io"
+        url = "//ebodera.com"
+        title = "ebodera.com"
 
         [[params.contact.list]]
         class = "linkedin"
@@ -155,7 +155,7 @@ disable404 = true
         [[params.projects.list]]
         title = "pwnable.kr Write-ups"
         url = "https://github.com/ebodera/pwnable.kr"
-        tagline = "Write-ups for pwnable.kr CTF challenges that involve various categories such as binary exploitation, reverse engineering and cryptography."
+        tagline = "Write-ups for pwnable.kr CTF challenges that involve various categories including binary exploitation, reverse engineering and cryptography."
 
     # Skills section
     [params.skills]
