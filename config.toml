@@ -53,8 +53,8 @@ disable404 = true
         [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
-        url = "//ebodera.com"
-        title = "ebodera.com"
+        url = "//ebodera.github.io"
+        title = "ebodera.github.io"
 
         [[params.contact.list]]
         class = "linkedin"
@@ -104,6 +104,7 @@ disable404 = true
 
         [[params.interests.list]]
         interest = "Powerlifting"
+        url = "//usapl.liftingdatabase.com/lifters-view?id=47258"
 
         [[params.interests.list]]
         interest = "Raving"
