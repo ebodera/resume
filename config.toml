@@ -165,19 +165,19 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Python"
-        level = "90%"
+        level = "80%"
 
         [[params.skills.list]]
         skill = "C"
-        level = "70%"
-
-        [[params.skills.list]]
-        skill = "Java"
         level = "60%"
 
         [[params.skills.list]]
-        skill = "Bash"
+        skill = "Java"
         level = "50%"
+
+        [[params.skills.list]]
+        skill = "Bash"
+        level = "40%"
 
         [[params.skills.list]]
         skill = "Go"
@@ -197,7 +197,7 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Agile"
-        level = "60%"
+        level = "25%"
 
     # Footer section
 
