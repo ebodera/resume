@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "https://www.ebodera.com/resume/"
+baseurl = "https://resume.ebodera.com"
 languageCode = "en-us"
 title = "Emanuel Boderash Resume"
 theme = "hugo-orbit-theme"
