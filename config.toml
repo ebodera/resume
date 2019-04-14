@@ -153,9 +153,9 @@ disable404 = true
         tagline = "Bot that trades stocks using Alpaca API based on custom algorithms and social media sentinement, written in Go."
 
         [[params.projects.list]]
-        title = "pwnable.kr Write-ups"
-        url = "https://github.com/ebodera/pwnable.kr"
-        tagline = "Write-ups for pwnable.kr CTF challenges that involve various categories including binary exploitation, reverse engineering and cryptography."
+        title = "pctf"
+        url = "https://github.com/ebodera/pctf"
+        tagline = "Tools for pctf from Software Security graduate course. System used in the attack/defense style ctf competition, comprising of several components: exploit manager, service analyzer, traffic monitor."
 
     # Skills section
     [params.skills]
