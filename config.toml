@@ -106,10 +106,10 @@ disable404 = true
         interest = "Powerlifting"
 
         [[params.interests.list]]
-        interest = "Festivals"
+        interest = "Coding"
 
         [[params.interests.list]]
-        interest = "Coding"
+        interest = "Piano"
 
 # Main body sections
 
