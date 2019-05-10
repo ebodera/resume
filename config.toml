@@ -41,8 +41,8 @@ disable404 = true
         [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        url = "mailto: eboderas@asu.edu"
-        title = "eboderas@asu.edu"
+        url = "mailto: hello@ebodera.com"
+        title = "hello@ebodera.com"
 
         [[params.contact.list]]
         class = "phone"
@@ -132,7 +132,7 @@ disable404 = true
         position = "Engineer"
         dates = "2017 - Present"
         company = "American Express"
-        details = "Lead automation in vulnerability management, architecting and deploying Splunk and CodeDX with numerous API endpoints using technologies such as Python, Docker and Bash on a team implementing Agile methodologies."
+        details = "Lead automation in vulnerability management, architecting and deploying Splunk with numerous API endpoints using technologies such as Python, Docker and Bash on a team implementing Agile methodologies."
 
         [[params.jobs.list]]
         position = "Intern"
