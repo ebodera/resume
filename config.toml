@@ -132,7 +132,7 @@ disable404 = true
         position = "Engineer"
         dates = "2017 - Present"
         company = "American Express"
-        details = "Lead automation in vulnerability management, architecting and deploying Splunk with numerous API endpoints using technologies such as Python, Docker and Bash on a team implementing Agile methodologies."
+        details = "Lead automation in vulnerability management, "
 
         [[params.jobs.list]]
         position = "Intern"
@@ -168,6 +168,10 @@ disable404 = true
         level = "80%"
 
         [[params.skills.list]]
+        skill = "Docker"
+        level = "80%"
+
+        [[params.skills.list]]
         skill = "C"
         level = "60%"
 
@@ -177,6 +181,10 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Bash"
+        level = "50%"
+
+        [[params.skills.list]]
+        skill = "Splunk"
         level = "40%"
 
         [[params.skills.list]]
@@ -184,20 +192,8 @@ disable404 = true
         level = "30%"
 
         [[params.skills.list]]
-        skill = "HTML5 & CSS"
+        skill = "Kubernetes"
         level = "20%"
-
-        [[params.skills.list]]
-        skill = "Docker"
-        level = "80%"
-
-        [[params.skills.list]]
-        skill = "Selenium"
-        level = "40%"
-
-        [[params.skills.list]]
-        skill = "Agile"
-        level = "25%"
 
     # Footer section
 
