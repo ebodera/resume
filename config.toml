@@ -132,7 +132,7 @@ disable404 = true
         position = "Engineer"
         dates = "2017 - Present"
         company = "American Express"
-        details = "Lead automation in vulnerability management, deploying DefectDojo platform in OpenShift and Splunk with streamlined API data ingestion, containerizing entire suite of Python applications in Docker."
+        details = "Lead automation in vulnerability management, deploying DefectDojo platform in OpenShift and Splunk with streamlined API ingestion, containerizing entire suite of Python applications in Docker."
 
         [[params.jobs.list]]
         position = "Intern"
