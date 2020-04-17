@@ -132,13 +132,13 @@ disable404 = true
         position = "Engineer"
         dates = "2017 - Present"
         company = "American Express"
-        details = "Lead automation in vulnerability management, deploying to production a Django based web app in OpenShift platform with OAuth2 integration, and containering entire suite of Python applications in Docker for streamlined API ingestion of over twenty different data sources into Splunk."
+        details = "Lead automation in vulnerability management, deploying to production a Django based web app in OpenShift cloud platform with OAuth2 integration, and containerizing entire suite of Python applications in Docker for streamlined API ingestion of over twenty different data sources into Splunk."
 
         [[params.jobs.list]]
         position = "Intern"
         dates = "2016 - 2017"
         company = "Arizona Cyber Warfare Range"
-        details = "Lead development, testing and documentation efforts of malware analysis lab, perform reverse-engineering of x86 Assembly code using IDA Pro, GDB, Cuckoo, VMCloak."
+        details = "Develop, test and document the creation of a malware analysis lab for performing reverse-engineering of x86 Assembly code using IDA Pro, GDB, Cuckoo, VMCloak."
 
     # Projects section
     [params.projects]
