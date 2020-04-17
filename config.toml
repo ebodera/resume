@@ -132,7 +132,7 @@ disable404 = true
         position = "Engineer"
         dates = "2017 - Present"
         company = "American Express"
-        details = "Lead automation in vulnerability management, deploying DefectDojo platform in OpenShift and Splunk with streamlined API ingestion, containerizing entire suite of Python applications in Docker."
+        details = "Lead automation in vulnerability management, deploying to production a Django based web app in OpenShift platform with OAuth2 integration, and containering entire suite of Python applications in Docker for streamlined API ingestion of over twenty different data sources into Splunk."
 
         [[params.jobs.list]]
         position = "Intern"
@@ -172,6 +172,10 @@ disable404 = true
         level = "80%"
 
         [[params.skills.list]]
+        skill = "Git"
+        level = "70%"
+
+        [[params.skills.list]]
         skill = "C"
         level = "60%"
 
@@ -184,7 +188,7 @@ disable404 = true
         level = "50%"
 
         [[params.skills.list]]
-        skill = "Splunk"
+        skill = "Kubernetes"
         level = "40%"
 
         [[params.skills.list]]
@@ -192,7 +196,27 @@ disable404 = true
         level = "30%"
 
         [[params.skills.list]]
-        skill = "Kubernetes"
+        skill = "Splunk"
+        level = "30%"
+
+        [[params.skills.list]]
+        skill = "Django"
+        level = "20%"
+
+        [[params.skills.list]]
+        skill = "NGINX"
+        level = "20%"
+
+        [[params.skills.list]]
+        skill = "Redis"
+        level = "20%"
+
+        [[params.skills.list]]
+        skill = "Kafka"
+        level = "20%"
+
+        [[params.skills.list]]
+        skill = "Helm"
         level = "20%"
 
     # Footer section
