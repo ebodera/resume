@@ -47,8 +47,8 @@ disable404 = true
         [[params.contact.list]]
         class = "phone"
         icon = "fa-phone"
-        url = "tel:+6027754172"
-        title = "+6027754172"
+        url = "tel:+6463891140"
+        title = "+6463891140"
 
         [[params.contact.list]]
         class = "website"
