@@ -181,6 +181,10 @@ disable404 = true
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
+        skill = "Management"
+        level = "90%"
+
+        [[params.skills.list]]
         skill = "Python"
         level = "80%"
 
@@ -193,12 +197,8 @@ disable404 = true
         level = "80%"
 
         [[params.skills.list]]
-        skill = "Management"
-        level = "70%"
-
-        [[params.skills.list]]
         skill = "Kubernetes"
-        level = "60%"
+        level = "70%"
 
         [[params.skills.list]]
         skill = "C"
@@ -238,7 +238,7 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Helm"
-        level = "20%"
+        level = "10%"
 
     # Footer section
 
