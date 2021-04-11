@@ -165,7 +165,7 @@ disable404 = true
         title = "Awards"
         #intro = ""
 
-        [[params.projects.list]]
+        [[params.awards.list]]
         title = "SVP Performance Spotlight"
         # tagline = ""
 
