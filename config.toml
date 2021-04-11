@@ -193,20 +193,20 @@ disable404 = true
         level = "80%"
 
         [[params.skills.list]]
-        skill = "Git"
-        level = "80%"
-
-        [[params.skills.list]]
         skill = "Linux"
         level = "80%"
 
         [[params.skills.list]]
-        skill = "Kubernetes"
+        skill = "Git"
         level = "70%"
 
         [[params.skills.list]]
-        skill = "C"
+        skill = "Kubernetes"
         level = "60%"
+
+        [[params.skills.list]]
+        skill = "C"
+        level = "50%"
 
         [[params.skills.list]]
         skill = "Java"
