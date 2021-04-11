@@ -137,7 +137,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "Full-stack developer. Strong focus in leading and coordinating development and automation efforts, architecting new initiatives and processes. Experience working in Agile."
+        summary = "Full-stack developer. Program manager in open-source vulnerability management, DevOps engineer with experience in Python, Docker and Kubernetes, Cybersecurity background."
 
     # Experiences section
     [params.experiences]
@@ -149,7 +149,7 @@ disable404 = true
         position = "Engineer"
         dates = "2017 - Present"
         company = "American Express"
-        details = "Lead automation in vulnerability management, deploying to production a Django based web app in OpenShift cloud platform with OAuth2 integration, and containerizing entire suite of Python applications in Docker for streamlined API ingestion of over twenty different data sources into Splunk."
+        details = "Lead open-source vulnerability management program, develop chatbot for enterprise developer community deployed with Docker and Kubernetes, deploy to production a Django based web app in OpenShift enterprise cloud platform, containerize suite of Python applications in Docker for API ingestion of over twenty different data sources into Splunk for metrics and analytics."
 
         [[params.jobs.list]]
         position = "Intern"
