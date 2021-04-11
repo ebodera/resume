@@ -157,18 +157,6 @@ disable404 = true
         company = "Arizona Cyber Warfare Range"
         details = "Develop, test and document the creation of a malware analysis lab for performing reverse-engineering of x86 Assembly code using IDA Pro, GDB, Cuckoo, VMCloak."
 
-
-    # Projects section
-    [params.awards]
-        enable = true
-        icon = "fa-award"
-        title = "Awards"
-        #intro = ""
-
-        [[params.awards.list]]
-        title = "SVP Performance Spotlight"
-        # tagline = ""
-
     # Projects section
     [params.projects]
         enable = true
