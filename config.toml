@@ -213,12 +213,12 @@ disable404 = true
         level = "50%"
 
         [[params.skills.list]]
-        skill = "Bash"
+        skill = "Go"
         level = "40%"
 
         [[params.skills.list]]
-        skill = "Go"
-        level = "30%"
+        skill = "Bash"
+        level = "40%"
 
         [[params.skills.list]]
         skill = "Splunk"
@@ -226,11 +226,11 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Django"
-        level = "20%"
+        level = "30%"
 
         [[params.skills.list]]
         skill = "NGINX"
-        level = "20%"
+        level = "30%"
 
         [[params.skills.list]]
         skill = "Redis"
