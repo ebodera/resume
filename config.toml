@@ -97,6 +97,14 @@ disable404 = true
         language = "Romanian"
         level = "Native"
 
+        [[params.language.list]]
+        language = "Spanish"
+        level = "Intermediate"
+
+        [[params.language.list]]
+        language = "German"
+        level = "Elementary"
+
     # Interests section
     [params.interests]
         enable = true
@@ -106,10 +114,19 @@ disable404 = true
         interest = "Powerlifting"
 
         [[params.interests.list]]
-        interest = "Coding"
+        interest = "Meditation & Yoga"
+
+        [[params.interests.list]]
+        interest = "Solo backpacking"
+
+        [[params.interests.list]]
+        interest = "Art film"
 
         [[params.interests.list]]
         interest = "Piano"
+
+        [[params.interests.list]]
+        interest = "Skydiving"
 
 # Main body sections
 
@@ -148,8 +165,8 @@ disable404 = true
         #intro = ""
 
         [[params.projects.list]]
-        title = "sociotrader"
-        url = "https://github.com/ebodera/sociotrader"
+        title = "trade-bot"
+        url = "https://github.com/ebodera/trade-bot"
         tagline = "Bot that trades stocks using Alpaca API based on custom algorithms and social media sentinement, written in Go."
 
         [[params.projects.list]]
@@ -173,7 +190,15 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Git"
+        level = "80%"
+
+        [[params.skills.list]]
+        skill = "Management"
         level = "70%"
+
+        [[params.skills.list]]
+        skill = "Kubernetes"
+        level = "60%"
 
         [[params.skills.list]]
         skill = "C"
@@ -185,10 +210,6 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Bash"
-        level = "50%"
-
-        [[params.skills.list]]
-        skill = "Kubernetes"
         level = "40%"
 
         [[params.skills.list]]
