@@ -137,7 +137,7 @@ disable404 = true
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = "Full-stack developer. Program manager in open-source vulnerability management. DevOps engineer with experience in Python, Docker and Kubernetes. Background in Cybersecurity."
+        summary = "DevOps engineer with experience in Python, Docker and Kubernetes. Program manager in open-source vulnerability management. Background in Cybersecurity."
 
     # Experiences section
     [params.experiences]
@@ -149,13 +149,13 @@ disable404 = true
         position = "Engineer"
         dates = "2017 - Present"
         company = "American Express"
-        details = "Lead open-source vulnerability management program, develop chatbot for enterprise developer community deployed with Docker and Kubernetes, deploy to production a Django based web app in OpenShift enterprise cloud platform, containerize suite of Python applications in Docker for API ingestion of over twenty different data sources into Splunk for metrics and analytics."
+        details = "Lead open-source vulnerability management program using Agile methodologies\nDevelop async chatbot for enterprise developer community deployed with Docker & Kubernetes\nDeploy to production a Django based web application in OpenShift enterprise cloud platform, utilizing Docker, Kubernetes, NGINX, PostgreSQL, Redis, Kafka, Vault\nContainerize over twenty Python applications in multi-stage Docker builds utilizing Jenkins, for reliable, scheduled API ingestion from vendor tools into Splunk, deployed on Ubuntu & RHEL."
 
         [[params.jobs.list]]
         position = "Intern"
         dates = "2016 - 2017"
         company = "Arizona Cyber Warfare Range"
-        details = "Develop, test and document the creation of a malware analysis lab for performing reverse-engineering of x86 Assembly code using IDA Pro, GDB, Cuckoo, VMCloak."
+        details = "Develop malware analysis lab to reverse-engineer x86 using IDA Pro, GDB, Cuckoo, VMCloak."
 
     # Projects section
     [params.projects]
@@ -167,7 +167,7 @@ disable404 = true
         [[params.projects.list]]
         title = "trade-bot"
         url = "https://github.com/ebodera/trade-bot"
-        tagline = "Bot that trades stocks using Alpaca API based on custom algorithms and social media sentinement, written in Go."
+        tagline = "Bot that trades stocks using Alpaca API and custom algorithms, written in Go."
 
         [[params.projects.list]]
         title = "pctf"
@@ -179,10 +179,6 @@ disable404 = true
         enable = true
         icon = "fa-rocket"
         title = "Skills & Proficiency"
-
-        [[params.skills.list]]
-        skill = "Management"
-        level = "90%"
 
         [[params.skills.list]]
         skill = "Python"
@@ -241,8 +237,8 @@ disable404 = true
         level = "20%"
 
         [[params.skills.list]]
-        skill = "Helm"
-        level = "10%"
+        skill = "SQL"
+        level = "20%"
 
     # Footer section
 
